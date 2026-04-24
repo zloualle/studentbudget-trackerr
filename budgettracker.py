@@ -1,4 +1,4 @@
-class BudgetTracker:
+class BudgetTracker01:
     def __init__(self):
         self.income = 0
         self.expenses = []
