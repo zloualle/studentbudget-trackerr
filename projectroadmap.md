@@ -3,7 +3,7 @@
  Phase 1: Planning
  [x] Define project idea and core features [DONE]
  [x] Identify target users (students) [DONE]
-[x] Decide on tech stack (Python CLI to start) [DONE]
+ [x] Decide on tech stack (Python CLI to start) [DONE]
 
 ---
 
@@ -20,22 +20,21 @@ Phase 2: Core Development
 Phase 3: Features and Insights
  [x] Display expense summary by category [DONE]
  [x] Add basic saving suggestions based on spending habits [DONE]
- [ ] Add monthly budget limits
- [ ] Add overspending alerts
- [ ] Implement automatic category detection
+ [x] Add monthly budget limits  [DONE]
+ [x] Add overspending alerts  [DONE]
+ [x ] Implement automatic category detection  [DONE]
 
 ---
 
 Phase 4: Data and Storage
- [ ] Save user data to file (JSON or CSV)
- [ ] Load saved data on startup
- [ ] Allow editing or deleting expenses
+ [ x] Save user data to file (JSON or CSV)  [DONE]
+ [ x] Load saved data on startup  [DONE]
+ [ x] Allow editing or deleting expenses  [DONE]
 
 ---
 
 Phase 5: Testing and Expansion
- [ ] Test all features thoroughly
- [ ] Fix bugs and improve error handling
- [ ] Build a graphical user interface (Tkinter or web app)
- [ ] Add charts or graphs for spending visualization
+ [ x] Test all features thoroughly  [DONE]
+ [ x] Fix bugs and improve error handling  [DONE]
+ [ x] Finish PPT Slides  [DONE]
  [ ] Prepare final documentation
